@@ -1,0 +1,74 @@
+body{background-color:#f4f4f4;
+}
+.topo{
+width:100%;
+height:80px;
+border-bottom:1px solid #ddd;
+background:#fff;
+text-align:center;
+}
+.centro-topo{
+text-align:center;
+}
+.logo{width:50px;height:50px; margin:25px 0px 0px -160px;}
+.nome-logo{font-family:candara;font-size:54px;margin:-36px 0px 0px 60px;}
+.divmeio{
+text-align:center;
+}
+.hr{
+position: relative;
+width: 70%;
+height: 8px;
+margin: 51px 15% 30px;
+border-bottom: 1px solid #c3c4c7;
+text-align: center;
+}
+.inner{
+background: #f4f4f4;
+border-radius: 100px;
+display: inline-block;
+width: auto;
+padding: 9px 10px;
+font-family: "Georgia", "Times", "Times New Roman", serif;
+font-size: 16px;
+font-style: italic;
+line-height: 0px;
+}
+.input{
+width:250px;
+height:28px !important;
+padding-left: 10px !important;
+font-size:16px !important;
+margin-left:10px;
+}
+.msg{
+margin-left:-50px;
+font-size:17px;
+}
+
+.msg2{
+margin-left:-56px;
+font-size:17px;
+}
+.entrar{position:relative;font-size:17px;padding: 10px 30px;
+background-image: linear-gradient(to bottom, #009cde, #009cde);
+margin-right:28px;
+margin-left:6px;
+
+}
+.entrar:hover{
+background:#0077cc;	
+}
+.esqueceu{
+font-size:16px;
+font-family: "Georgia", "Times", "Times New Roman", serif;
+font-style: italic;
+}
+.hr2{
+position: relative;
+width: 70%;
+height: 8px;
+margin: 100px 15% 30px;
+border-bottom: 1px solid #c3c4c7;
+text-align: center;
+}
